@@ -41,7 +41,7 @@ form{
     flex-direction: column;
     gap: 10px;
 
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 
     >input{
         border: 1px solid #ccc;
